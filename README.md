@@ -19,6 +19,6 @@ This is a Todo app that utilizes Firebase Authentication, Realtime Database, and
 - JSX and Tailwind CSS: For the structure and styling of the user interface.
 - JavaScript: The primary programming language used for app logic.
 
-# NOTE : Currently Facebook Login is Not Working. 
+### NOTE : Currently Facebook Login is Not Working. 
 
 
